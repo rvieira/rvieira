@@ -6,12 +6,9 @@
     - PostgreSQL
     - Sybase
     - MySQL / MariaDB
-    - MongoDB
-    - Aurora
   - Coding
     - C
     - Python
-    - Go
     - Pascal
     - Perl
     - ksh and bash
@@ -19,7 +16,7 @@
   - go
   - Introduction to Git and GitHub
   - Machine Learning
-  - Big Bang
+  - Big Bang Theory
   - Google Enterprise Database Migration 
   - Machine Learning
 - 💞️ I’m looking to collaborate on ...
