@@ -10,8 +10,7 @@
     - C
     - Python
     - Pascal
-    - Perl
-    - ksh and bash
+    - shell scripting
 - 🌱 I’m currently learning 
   - go
 
