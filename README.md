@@ -6,6 +6,7 @@
     - PostgreSQL
     - Sybase
     - MySQL / MariaDB
+    - MongoDB
   - Coding
     - C
     - Python
