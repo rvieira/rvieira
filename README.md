@@ -14,11 +14,7 @@
     - ksh and bash
 - 🌱 I’m currently learning 
   - go
-  - Introduction to Git and GitHub
-  - Machine Learning
-  - Big Bang Theory
-  - Google Enterprise Database Migration 
-  - Machine Learning
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
